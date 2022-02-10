@@ -1,3 +1,5 @@
+#create a class of cars to insert and display record
+
 import java.util.Scanner;
 
 class cars{
