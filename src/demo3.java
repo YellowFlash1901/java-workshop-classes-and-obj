@@ -1,4 +1,4 @@
-
+#create a class student to insert abd display student info
 class Students{
     int id;
     String name;
