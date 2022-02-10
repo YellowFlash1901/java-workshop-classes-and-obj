@@ -1,3 +1,6 @@
+#create a class student and create an object to accesss the class
+    
+
 class Student{
     int id = 12;
     String name = "vardaan";
