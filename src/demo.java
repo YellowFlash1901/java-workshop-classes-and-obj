@@ -1,3 +1,5 @@
+#create a class lamp to check whether the lamp is on or off
+
 class Lamp{
     boolean ison;
     public void turnOff() {
