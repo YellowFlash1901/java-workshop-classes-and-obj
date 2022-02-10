@@ -1,3 +1,6 @@
+#create a class company 
+    
+
 class Company{
     String name;
 
