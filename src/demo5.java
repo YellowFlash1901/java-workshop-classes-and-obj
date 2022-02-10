@@ -1,3 +1,4 @@
+#create a class of languages
 class Lang{
  String languages;
  Lang(String l){
